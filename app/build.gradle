@@ -7,7 +7,7 @@ android {
     defaultConfig {
         applicationId "comm.danielkim.soundrecorder"
         minSdkVersion 16
-        targetSdkVersion 27
+        targetSdkVersion 25
         versionCode 3
         versionName "1.2"
     }
