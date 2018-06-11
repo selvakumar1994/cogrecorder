@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/test/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/test/Documents/selva/SoundRecorder-master/app/build/intermediates/pre-dexed/debug/library-2.4.0_8173151749f7d89c90612a0ac06dbd92f20ff54e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/b647afd1eba7ef2b4bf0761285ca2f2ff6d2612a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/home/test/Documents/selva/SoundRecorder-master/app/build/intermediates/pre-dexed/debug/classes_48cb9823b40aec2275308a43e54717ccffaa5e65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/ca0b8d1393e14ec8b1a43ff4a5e678f7c90ecfd8/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/test/Documents/selva/SoundRecorder-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_027b4192691cab211314479c5097305ceaf67677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/a2bf0df77562e39b807eedf30ee96788eeef34a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15ebf37e2dc7047e993afdfb308610e171bcea1b">
+        <dex dex="/home/test/Documents/selva/SoundRecorder-master/app/build/intermediates/pre-dexed/debug/classes_e31bf5e0992e4782bc305c4f8776bd48ee98d46b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/test/Documents/selva/SoundRecorder-master/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_3c33bcd5a1457be65a8a285190820815289e6e11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/ca0b8d1393e14ec8b1a43ff4a5e678f7c90ecfd8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/test/Documents/selva/SoundRecorder-master/app/build/intermediates/pre-dexed/debug/classes_4de478c895f1e4447b29ec2a389b542a92860fab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/d5efbd557738609e0720d77d71c475d3fff9a16e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/test/Documents/selva/SoundRecorder-master/app/build/intermediates/pre-dexed/debug/classes_50b9ed02c290363a6b9b0f4a4c9114740d6fd372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/b19d7b6e8e197112a6755964d2cbffd7c1c455e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/home/test/Documents/selva/SoundRecorder-master/app/build/intermediates/pre-dexed/debug/classes_277378c057526a33703e8357ebf5838b47382b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/test/.android/build-cache/75dba53c4f28069007357bd6049c1acde2c7f647/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee9ae2b87d57a33a7381c75d54db12bdf2995656">
+        <dex dex="/home/test/Documents/selva/SoundRecorder-master/app/build/intermediates/pre-dexed/debug/classes_74db53ca1b6e1def637efe7295720986582d4b24.jar" />
+    </item>
+
+</items>
