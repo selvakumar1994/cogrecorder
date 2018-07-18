@@ -8,8 +8,8 @@ android {
         applicationId "comm.danielkim.soundrecorder"
         minSdkVersion 16
         targetSdkVersion 25
-        versionCode 22
-        versionName "8.7"
+        versionCode 23
+        versionName "8.8"
     }
     buildTypes {
         release {
